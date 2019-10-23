@@ -99,4 +99,3 @@ At a high-level Kafka gives the following guarantees:
 - For a topic with replication factor N, we will tolerate up to N-1 server failures without losing any records committed to the log.
 
 More details on these guarantees are given in the design section of the documentation.
-
