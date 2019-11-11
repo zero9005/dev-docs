@@ -16,3 +16,8 @@
 > ./configure --prefix=/opt/nginx --with-http_ssl_module --with-pcre=../pcre-8.41 --with-zlib=../zlib-1.2.11
 ```
 
+```shell
+> make
+> sudo make install
+```
+
