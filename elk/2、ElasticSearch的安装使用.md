@@ -49,3 +49,9 @@
 
 
 > the default discovery settings are unsuitable for production use; at least one of [discovery.seed_hosts, discovery.seed_providers, cluster.initial_master_nodes] must be configured
+
+```shell
+> sudo vi ./confg/elasticsearch.yml
+# cluster.initial_master_nodes: ["node-1"]
+```
+
