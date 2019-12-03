@@ -55,3 +55,14 @@
 # cluster.initial_master_nodes: ["node-1"]
 ```
 
+
+
+## 5、分析器
+
+```shell
+> curl -x GET "http://localhost:9200/_analyzer" -d '{
+	'anaylizer': 'ik_max_word' # ik_smart
+	'text': 'search text'
+}'
+```
+
