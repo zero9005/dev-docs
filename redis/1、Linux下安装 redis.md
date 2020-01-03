@@ -13,6 +13,7 @@
 > vi /opt/redis/redis.conf
 # password
 # daemonize
+# bind 127.0.0.1
 ```
 
 ## 设置开机启动
