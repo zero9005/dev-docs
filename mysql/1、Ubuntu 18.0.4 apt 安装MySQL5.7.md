@@ -3,7 +3,7 @@
 ## 1、安装步骤
 
 ```shell
-> sudo apt instal mysql-server-5.7
+> sudo apt install mysql-server-5.7
 ```
 
 
