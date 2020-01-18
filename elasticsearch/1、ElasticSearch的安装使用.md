@@ -61,8 +61,8 @@
 ## 5、分析器
 
 ```shell
-> curl -x GET "http://localhost:9200/_analyzer" -d '{
-	'anaylizer': 'ik_max_word' # ik_smart
+> curl -x GET "http://localhost:9200/_analyze" -d '{
+	'anaylyzer': 'ik_max_word' # ik_smart
 	'text': 'search text'
 }'
 ```
