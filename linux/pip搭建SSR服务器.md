@@ -10,7 +10,7 @@
 >  No module named setuptools 
 
 ```shell
-> sudo apt-get install -y python-setuptools
+> apt-get install -y python-setuptools
 ```
 
 ```shell
