@@ -13,3 +13,6 @@
 
 - `git push --set-upstream origin <branchName>` 在远程主机建立分支<branchName>
 
+- `git fetch origin`  更新远程分支
+- `git remote update origin --prune `  更新远程的分支到本地，可用`checkout`切换
+
