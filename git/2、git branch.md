@@ -14,3 +14,4 @@
 - `git remote update origin --prune `  更新远程的分支到本地，可用`checkout`切换
 - `git merge <branchName>`合并其它分支到当前分支
 
+- `git push origin --delete <branchName>` 删除远程分支
